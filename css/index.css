@@ -2,4 +2,11 @@
     display: flex;
     align-items: center;
     padding: 2%;
+    
+
 }
+
+#menu-top, #menu-bottom {
+    padding: 2%;
+}
+
